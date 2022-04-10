@@ -79,15 +79,17 @@ varians
     probability = dbinom(x, n, prob = p, log = FALSE)
     probability
     ```
-    Dengan hasil sebagai berikut
-    ![2a](https://user-images.githubusercontent.com/64957624/162588317-928e3e5d-a2cd-4d1b-8093-313909524b32.png)
+   Hasil: 
+   <img width="1680" alt="Screen Shot 2022-04-10 at 21 31 17" src="https://user-images.githubusercontent.com/102576678/162624315-e4596c7e-3f9a-44e1-86d5-e1f6e08168de.png">
+
  - Gambarkan grafik histogram berdasarkan kasus tersebut
     ```R
     # Poin B
     hist(rbinom(x, n, prob = p), xlab = "X", ylab = "Frekuensi", main = "Histogram of Binomial")
     ```
-    Dengan hasil sebagai berikut
-    ![2b](https://user-images.githubusercontent.com/64957624/162588309-70356e40-f650-441a-b4f2-2372a5f1e507.png)
+   Hasil:
+   <img width="1680" alt="Screen Shot 2022-04-10 at 21 31 46" src="https://user-images.githubusercontent.com/102576678/162624343-ef6311d6-fc6b-4b01-8d9a-d62ad3248bf7.png">
+
  - Nilai rataan (μ) dan varian (σ²) dari distribusi Binomial
     ```R
     # Poin C
@@ -96,8 +98,9 @@ varians
     mean
     var 
     ```
-    Dengan hasil sebagai berikut
-    ![2c](https://user-images.githubusercontent.com/64957624/162588318-d555c900-43a9-4012-8b6d-82fc68848e07.png)
+    Hasil: 
+    <img width="1680" alt="Screen Shot 2022-04-10 at 21 32 28" src="https://user-images.githubusercontent.com/102576678/162624370-cd47bf8e-d41b-4337-8716-6833b9f8f007.png">
+
  </br>
 
 ## Soal 3
