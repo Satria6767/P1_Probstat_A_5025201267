@@ -248,8 +248,8 @@ data generate randomnya dalam bentuk grafik. Petunjuk(gunakan fungsi plot()).
  
        ```
        - Hasil 6b yaitu sebagai berikut:
-       
-       
+       ![Uploading Screen Shot 2022-04-10 at 20.55.53.png…]()
+
   - C. Nilai Varian (σ2) dari hasil generate random nilai Distribusi Normal.
 
        ```R
