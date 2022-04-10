@@ -163,7 +163,7 @@ Menggunakan fungsi `hist()` dan hasilnya nanti akan berubah-ubah setiap generate
 hist(rchisq(100, v))
 ```
 Hasil:
-[Uploading Screen Shot 2022-04-10 at 21.24.57.png…]()
+<img width="1680" alt="Screen Shot 2022-04-10 at 21 33 53" src="https://user-images.githubusercontent.com/102576678/162624445-70b535fa-733c-47d7-b193-927c703dbf09.png">
 
 </br>
 
@@ -180,7 +180,7 @@ varian <- 2 * df
 varian
 ```
 Hasil:
-[Uploading Screen Shot 2022-04-10 at 21.25.33.png…]()
+<img width="1680" alt="Screen Shot 2022-04-10 at 21 34 21" src="https://user-images.githubusercontent.com/102576678/162624468-8df30da2-c7cb-4e0b-b1b1-f7c1287ecdef.png">
 
 </br>
 
@@ -193,7 +193,7 @@ set.seed(1)
 rexp(3)
 ```
 Hasil:
-[Uploading Screen Shot 2022-04-10 at 21.26.26.png…]()
+<img width="1680" alt="Screen Shot 2022-04-10 at 21 34 40" src="https://user-images.githubusercontent.com/102576678/162624484-be87d5a9-cf31-4713-8113-c3893a6594e6.png">
 
 </br>
 
